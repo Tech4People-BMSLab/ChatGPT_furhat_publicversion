@@ -1,0 +1,5 @@
+10:12:59 [Skill] INFO  Skill:137 - Connecting to Furhat server on 0.0.0.0:1932
+10:12:59 [Chatgpt_furhatSkill] INFO  Chatgpt_furhatSkill:164 - Starting skill
+10:13:22 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 2566 ms since last event poll
+10:13:38 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 2558 ms since last event poll
+10:13:44 [Broker Client] ERROR BrokerClient:152 - Unexpected disconnect from broker

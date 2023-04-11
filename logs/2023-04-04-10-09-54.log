@@ -1,0 +1,19 @@
+10:09:55 [Skill] INFO  Skill:137 - Connecting to Furhat server on 0.0.0.0:1932
+10:09:55 [Chatgpt_furhatSkill] INFO  Chatgpt_furhatSkill:164 - Starting skill
+10:10:17 [Chatgpt_furhatSkill] ERROR TriggerRunner: 33 - Error
+org.json.JSONException: JSONObject["choices"] not found.
+	at org.json.JSONObject.get(JSONObject.java:520)
+	at org.json.JSONObject.getJSONArray(JSONObject.java:714)
+	at furhatos.app.chatgpt_furhat.flow.main.GreetingKt$Chat$1$4.invoke(greeting.kt:96)
+	at furhatos.app.chatgpt_furhat.flow.main.GreetingKt$Chat$1$4.invoke(greeting.kt)
+	at furhatos.flow.kotlin.TriggerRunner.run(TriggerRunner.kt:31)
+	at furhatos.flow.kotlin.Runner.runTrigger(Runner.kt:225)
+	at furhatos.flow.kotlin.Runner.runTrigger$default(Runner.kt:197)
+	at furhatos.flow.kotlin.StateRunner.run(StateRunner.kt:57)
+	at furhatos.flow.kotlin.Flow.tailRecRun(Flow.kt:147)
+	at furhatos.flow.kotlin.Flow.run(Flow.kt:111)
+	at furhatos.app.chatgpt_furhat.Chatgpt_furhatSkill.start(main.kt:9)
+	at furhatos.skills.Skill.initializeSkill(Skill.java:167)
+	at furhatos.skills.Skill.lambda$startSkill$2(Skill.java:225)
+	at java.lang.Thread.run(Thread.java:750)
+10:10:24 [EventSystem] INFO  Chatgpt_furhatSkill:182 - Terminating skill
