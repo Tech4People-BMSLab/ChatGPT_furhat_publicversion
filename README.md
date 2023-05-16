@@ -1,9 +1,5 @@
-# Skill
-Template skill
-
-## Description
-This is a skill template, see [the docs](https://docs.furhat.io/skills/#the-contents-of-a-skill) for a breakdown of the content. 
-For more example skills go to [our Github](https://github.com/FurhatRobotics/)
+This is a skill for Furhat Robot that shows how to integrate chatGPT to the robot.
+Have fun asking what you want!
 
 ## Usage
 Max number of users is set to: 2
