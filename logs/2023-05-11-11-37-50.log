@@ -1,0 +1,5 @@
+11:37:50 [Skill] INFO  Skill:137 - Connecting to Furhat server on 0.0.0.0:1932
+11:37:50 [Chatgpt_furhatSkill] INFO  Chatgpt_furhatSkill:164 - Starting skill
+11:37:52 [EventSystem] ERROR EventSystem:183 - Timed out while waiting for class furhatos.event.responses.ResponseFaceEngine
+11:37:52 [EventSystem] WARN  FurhatFace:255 - Exception while waiting for FaceEngine
+11:38:19 [Broker Client] ERROR BrokerClient:152 - Unexpected disconnect from broker

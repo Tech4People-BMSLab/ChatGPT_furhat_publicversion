@@ -1,0 +1,8 @@
+11:10:34 [Skill] INFO  Skill:137 - Connecting to Furhat server on 0.0.0.0:1932
+11:10:35 [Chatgpt_furhatSkill] INFO  Chatgpt_furhatSkill:164 - Starting skill
+11:10:36 [EventSystem] ERROR EventSystem:183 - Timed out while waiting for class furhatos.event.responses.ResponseFaceEngine
+11:10:36 [EventSystem] WARN  FurhatFace:255 - Exception while waiting for FaceEngine
+11:11:00 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 8173 ms since last event poll
+11:11:35 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 6856 ms since last event poll
+11:12:03 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 3052 ms since last event poll
+11:12:10 [EventSystem] INFO  Chatgpt_furhatSkill:182 - Terminating skill

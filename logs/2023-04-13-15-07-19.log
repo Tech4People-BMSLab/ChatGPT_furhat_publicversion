@@ -1,0 +1,8 @@
+15:07:19 [Skill] INFO  Skill:137 - Connecting to Furhat server on 0.0.0.0:1932
+15:07:20 [Skill] ERROR EventSystem:183 - Timed out while waiting for class furhatos.event.responses.ResponseWebServerPort
+15:07:20 [Skill] ERROR Skill:222 - java.util.concurrent.TimeoutException
+15:07:20 [Skill] WARN  Skill:223 - Unable to get real furhatWebPort, using default of 80
+15:07:20 [Chatgpt_furhatSkill] INFO  Chatgpt_furhatSkill:164 - Starting skill
+15:07:23 [EventSystem] ERROR EventSystem:183 - Timed out while waiting for class furhatos.event.responses.ResponseFaceEngine
+15:07:23 [EventSystem] WARN  FurhatFace:255 - Exception while waiting for FaceEngine
+15:07:24 [Chatgpt_furhatSkill] WARN  FurhatSpeech:297 - Could not find voice: Matthew (?) - Unknown

@@ -1,0 +1,122 @@
+11:57:21 [Skill] INFO  Skill:137 - Connecting to Furhat server on 130.89.210.18:1932
+11:57:22 [Chatgpt_furhatSkill] INFO  Chatgpt_furhatSkill:164 - Starting skill
+11:57:24 [EventSystem] ERROR EventSystem:183 - Timed out while waiting for class furhatos.event.responses.ResponseFaceEngine
+11:57:24 [EventSystem] WARN  FurhatFace:255 - Exception while waiting for FaceEngine
+11:57:43 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 4253 ms since last event poll
+11:58:07 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 10814 ms since last event poll
+11:58:07 [ErrorLoggingThread] ERROR Chatgpt_furhatSkill:458 - Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionSpeech
+
+11:58:44 [ErrorLoggingThread] ERROR Chatgpt_furhatSkill:458 - Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+
+11:58:46 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 12151 ms since last event poll
+11:58:46 [ErrorLoggingThread] ERROR Chatgpt_furhatSkill:458 - Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.monitors.MonitorGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.monitors.MonitorGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.senses.SenseUsers
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionGaze
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionSpeech
+Flow - unknown - A flow's queue is full, could not add furhatos.event.actions.ActionLog
+
+11:59:24 [Chatgpt_furhatSkill] WARN  Flow: 94 - Flow unknown unresponsive, 3388 ms since last event poll

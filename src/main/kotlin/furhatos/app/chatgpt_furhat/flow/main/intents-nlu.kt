@@ -6,7 +6,7 @@ import furhatos.util.Language
 
 class YesEnum :  EnumEntity(speechRecPhrases = true){
     override fun getEnum(lang: Language): List<String> {
-        return listOf("Yes", "Sure")
+        return listOf("Yes", "Sure", "Of course")
     }
 }
 
@@ -31,7 +31,7 @@ class NoIntent(val NoEnum: NoEnum? =null) : Intent(){
 class StopConversationEnum :  EnumEntity(speechRecPhrases = true){
     override fun getEnum(lang: Language): List<String> {
         return listOf(
-            "Goodbye"
+            "Goodbye", "Bye"
         )
     }
 }
